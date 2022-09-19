@@ -1,6 +1,6 @@
 #include "main.h"
 #include "2-strlen.c"
-#include "2-strlen.c"
+
 
 /**
  * puts_half - puts half of int
