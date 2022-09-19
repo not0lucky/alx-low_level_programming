@@ -7,4 +7,8 @@ int _strlen(char *s);
 
 void _puts(char *str);
 
+void print_env(char *s);
+
+int _putchar(char c);
+
 #endif
